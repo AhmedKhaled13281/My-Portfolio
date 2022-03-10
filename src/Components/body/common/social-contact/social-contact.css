@@ -1,0 +1,17 @@
+.social-contact{
+  display : flex;
+  flex: 1;
+  justify-content : space-around;
+  align-items : center;
+}
+.social-icon-div{
+  cursor : pointer;
+}
+.social-icon-div:hover{
+  transition: scale(2 , 3)
+}
+@media only screen and (max-width : 720px){
+  .social-img{
+    height: 40px;
+  }
+}
