@@ -5,6 +5,9 @@ html{
 }
 body{
   font-family: 'Poppins' , sans-serif;
+  color: #fff;
+  background: rgb(46,28,82);
+  background: radial-gradient(circle, rgba(46,28,82,1) 0%, rgba(18,84,103,1) 100%);
 }
 .home{
   width : 70%;
