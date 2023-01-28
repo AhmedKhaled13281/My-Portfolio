@@ -1,6 +1,15 @@
 export const ProjectData = [
   {
     catigory : 'react',
+    title : 'Amazon Clone',
+    about : "it's an Amazon Clone which is an E-commerce that let you buy and any product you want with a lot of categories",
+    tags : ["React" , "React-Router" , "React-Hooks" , "React Hook Form" , "Tailnwind Css" ,"Responsive Design" , "Axios" , "Redux" , "Redux Thunk" , "Firebase" , "Swiper.js"],
+    demo : 'https://amazon-clone-six-eosin.vercel.app/',
+    github : 'https://github.com/AhmedKhaled13281/Amazon-Clone',
+    images : '../../assets/amazon.png'
+  },
+  {
+    catigory : 'react',
     title : 'Netflix Clone',
     about : "it's a Netflix Clone which is let you see the Traillers for your favorite movies and see their description and Rating",
     tags : ["React" , "Styled-Component" , "React-Router" , "React-Hooks" , "Custom Hook" , "Css-Modules" , "Sass" ,"Responsive Design" , "Axios"],
